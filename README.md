@@ -7,7 +7,7 @@ Description
 
 Usage
 --------
- * **tedSubtitle URL languageCode output.src** *or you can modify the testTedSub.bat directly*　.
+ * **tedSubtitle URL [languageCode](https://github.com/thinkhy/TedSubtitle/wiki/Language-Code) output.src** *or you can modify the testTedSub.bat directly*　.
 
    For example:
 
