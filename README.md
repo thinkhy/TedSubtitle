@@ -7,9 +7,11 @@ Description
 
 Usage
 --------
- * tedSubtitle URL languageCode output.src 
+ * tedSubtitle URL languageCode output.src *or you can modify the testTedSub.bat directly*　.
 
-    >   or you can modify the testTedSub.bat directly.
+   For example:
+
+    >   tedsubtitle "http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything.html"  eng wolfram.srt 
 
 Files
 --------
@@ -21,7 +23,10 @@ Doc(in Chinese)
 -----------------
   * http://blog.csdn.net/thinkhy/article/details/6564434   
 
-```
+
+License
+-------------
+
 License: Apache License V2.0
 
 Authors: thinkhy<think.hy@gmail.com>
@@ -42,4 +47,4 @@ You may obtain a copy of the License at
     See the License for the specific language governing permissions and
     limitations under the License.
        
-```
+
