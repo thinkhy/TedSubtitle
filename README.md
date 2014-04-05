@@ -3,7 +3,7 @@ TedSubtitle
 
 Description
 --------------
-  * Get ted talk's subtitle from TED.com and convert subtitle of TED video to SRT format(SubRip Subtitle File). 
+  * Get ted talk's subtitle from TED.com and convert subtitle to SRT format(SubRip Subtitle File). 
 
 Usage
 --------
