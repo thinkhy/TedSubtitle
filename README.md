@@ -17,7 +17,6 @@ Usage
 Files
 --------
   * tedSubtitle.pl   Perl script   
-  * tedSubtitle.exe  Executable file converted from Perl script
   * testTedSub.bat   Batch processing file.
 
 Doc(in Chinese)
