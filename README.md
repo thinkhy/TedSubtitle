@@ -16,8 +16,8 @@ Usage
 
 Files
 --------
-  * tedSubtitle.pl   Perl script   
-  * testTedSub.bat   Batch processing file.
+  * tedSubtitle.pl:   Perl script   
+  * testTedSub.bat:   Batch processing file.
 
 Doc(in Chinese)
 -----------------
