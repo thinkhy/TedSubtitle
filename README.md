@@ -31,4 +31,4 @@ Authors: [thinkhy](mailto:think.hy@gmail.com?Subject=Comments for TedSubtitle)
 
 Bug reports are welcome. Email to the current maintainers may be sent to <think.hy@gmail.com>.
 
-I will be happy if the script could help you. 
+Hope the script could help you. Enjoy it.
