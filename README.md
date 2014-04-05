@@ -27,7 +27,7 @@ Doc(in Chinese)
 Feedback
 -------------
 
-Any defect,issue or suggestion, please email me at [thinkhy](mailto:think.hy@gmail.com?Subject=Comments for TedSubtitle)
+Any defect, issue or suggestion, please don't hesitate to email me at [thinkhy](mailto:think.hy@gmail.com?Subject=Comments for TedSubtitle)
 
 
 
