@@ -27,8 +27,10 @@ Doc(in Chinese)
 Feedback
 -------------
 
-Authors: [thinkhy](mailto:think.hy@gmail.com?Subject=Comments for TedSubtitle)
+Any defect,issue or suggestion, please email me at [thinkhy](mailto:think.hy@gmail.com?Subject=Comments for TedSubtitle)
 
-Bug reports are welcome. Email to the current maintainers may be sent to <think.hy@gmail.com>.
+
+
+
 
 Hope the script could help you. Enjoy it.
