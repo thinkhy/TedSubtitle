@@ -132,7 +132,7 @@ print "Seems good, go on.\n";
 
 # Get subtitle content from TED.COM
 # my $subtitleUrl = "http://www.ted.com/talks/subtitles/id/$talkID/lang/$languageCode/format/text";  @A4D
-my $subtitleUrl = "http://www.ted.com/talks/$talkID/transcript?lang=$languageCode";                 #@A4A
+my $subtitleUrl = "http://www.ted.com/talks/$talkID/transcript?language=$languageCode";                 #@A4A
 print "Subtitle URL: $subtitleUrl\n";
 my $content = GetUrl($subtitleUrl);
 
